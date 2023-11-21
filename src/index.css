@@ -5,3 +5,6 @@
 .container{
     @apply max-w-[1240px] px-3 mx-auto
 }
+.active{
+    @apply border-b-2 border-red-400
+}
